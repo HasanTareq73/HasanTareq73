@@ -1,4 +1,4 @@
-I'm Mahadi Hasan from Dhaka, Bangladesh. I'm working as a DevOps Engineer. I really enjoy learning programming and DevOps tools like Python, Golang, and Ansible, Terraform. I also enjoy learning about cloud environments and system design. 
+I'm Mahadi Hasan from Dhaka, Bangladesh. I'm working as a Network and System Engineer.
 
 Skills: AWS / GCP/ RHCE / ANSIBLE / DOCKER/ CONTAINER/ CI-CD/ ROUTING-SWITCHING
 
